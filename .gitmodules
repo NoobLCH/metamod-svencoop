@@ -1,6 +1,6 @@
 [submodule "metamod"]
 	path = metamod
-	url = https://github.com/metamod-svencoop/metamod.git
+	url = https://github.com/NoobLCH/metamod.git
 [submodule "asext"]
 	path = asext
 	url = https://github.com/metamod-svencoop/asext.git
